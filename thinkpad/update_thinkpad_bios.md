@@ -1,4 +1,4 @@
-# Updating the ThinkPad BIOS
+# Update Thinkpad BIOS
 
 1. Download the **BIOS Updatable Bootable CD** from [support.lenovo.com](https://support.lenovo.com)
 2. Use [geteltorito](https://userpages.uni-koblenz.de/~krienke/ftp/noarch/geteltorito/) to extract a bootable image
