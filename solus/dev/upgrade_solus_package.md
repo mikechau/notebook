@@ -1,6 +1,6 @@
 # Upgrade Solus Package
 
-1. Update package.yml
+1. Update `package.yml`
 
 ```bash
 yupdate $VERSION $URL_TO_TARBALL
