@@ -31,3 +31,7 @@ git commit -p
 ```
 arc diff
 ```
+## References
+
+- [Updating an Existing Package](https://getsol.us/articles/packaging/updating-an-existing-package/en/)
+- [Submitting the Package](https://getsol.us/articles/packaging/submitting-a-package/en/)
